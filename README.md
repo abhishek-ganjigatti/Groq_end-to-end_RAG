@@ -1,7 +1,3 @@
-Here's a **`README.md`** file based on the provided description and inferred code behavior. It summarizes your project as a complete end-to-end Retrieval-Augmented Generation (RAG) system using LangChain, FAISS, and the Groq API:
-
----
-
 # 🧠 Retrieval-Augmented Generation (RAG) with LangChain, FAISS, and Groq
 
 This project is a complete implementation of a **Retrieval-Augmented Generation (RAG)** pipeline. It combines document retrieval with large language model inference to answer user queries with grounded, contextual information.
