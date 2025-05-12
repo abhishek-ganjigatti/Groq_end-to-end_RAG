@@ -140,4 +140,7 @@ This project showcases an **end-to-end RAG implementation** using LangChain for 
 
 ---
 
-Would you like a sample `requirements.txt` or code layout to go with this README?
+#### Acknowledgements
+
+I learned about this implementation from [Krish Naik](https://github.com/krishnaik06) and his excellent [Langchain with Groq repository](https://github.com/krishnaik06/Updated-Langchain/tree/main/groq).
+####
